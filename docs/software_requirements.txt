@@ -1,0 +1,41 @@
+# Software Requirements
+
+## Programming Languages
+
+- Python
+
+## Computer Vision
+
+- OpenCV
+
+## Artificial Intelligence
+
+- YOLOv8
+- Ultralytics
+
+## Web Application
+
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+## Development Tools
+
+- VS Code
+- Google Colab
+- Git
+- GitHub
+
+## Dataset Tools
+
+- Roboflow
+
+## Deployment Platform
+
+- Raspberry Pi OS
+
+## Version Control
+
+- Git
+- GitHub

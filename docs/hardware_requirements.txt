@@ -1,0 +1,27 @@
+# Hardware Requirements
+
+## Core Components
+
+- Raspberry Pi 4
+- Raspberry Pi Camera Module
+- Drone Frame
+- Brushless Motors
+- Electronic Speed Controllers (ESC)
+- Propellers
+- Flight Controller
+- Power Distribution Board
+- LiPo Battery
+- GPS Module
+- Relay Module
+- Spraying Pump
+- Water/Pesticide Tank
+
+## Optional Components
+
+- Telemetry Module
+- Obstacle Detection Sensors
+- Additional Cameras
+
+## Purpose
+
+The hardware components work together to enable real-time disease detection and targeted spraying operations.
